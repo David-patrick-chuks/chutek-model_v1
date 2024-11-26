@@ -1,0 +1,6 @@
+tensorflow==2.17.0
+transformers==4.32.0
+numpy
+pandas
+tqdm
+jupyter
